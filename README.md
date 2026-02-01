@@ -1,7 +1,3 @@
-Here’s a tighter, easier-to-scan version with cleaner sections and less repetition. I kept your intent and wording style, just made it more “follow-the-steps” friendly.
-
----
-
 # RaccoonPro – Module 0 (Programming & .NET Orientation)
 
 This repo contains **Module 0 demo projects**.
@@ -75,9 +71,9 @@ If `dotnet` isn’t recognized:
 
 * Restart your computer and try again
 
-### 2) Visual Studio 2026 Community
+### 2) Visual Studio 2022 Community
 
-Install **Visual Studio Community 2026**, select workloads:
+Install **Visual Studio Community 2022**, select workloads:
 
 * **ASP.NET and web development**
 * **.NET desktop development**
@@ -150,7 +146,3 @@ Expected: JSON output.
 
 If you already know Git:
 `git clone <REPLACE_WITH_REPO_URL>`
-
----
-
-If you want, I can also do a **“spoken version”** that reads cleanly for a recording (shorter sentences, fewer headings, more “do this next” pacing).
